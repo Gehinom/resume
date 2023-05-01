@@ -1,6 +1,4 @@
-
- # Andrievskiy Ivan Sergiyovich
-
+# Andrievskiy Ivan Sergiyovich
 
 # SKILLS
 - HTML5, css3, sass
