@@ -1,0 +1,8 @@
+h1 {
+	border-bottom: none;
+}
+
+h2 {
+	border-bottom: 1px solid black;
+  padding-bottom: 12px;
+}
