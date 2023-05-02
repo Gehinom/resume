@@ -1,23 +1,21 @@
 # Serhiienko Dmytro
 
-# Skills
+## Skills
 - HTML5, css3
 - Javascript
 - Game development
 - Git, git bash
 - Figma, Photoshop, Illustrator
 
- ## Experience
-
 ## Pet projects
 
- ### [Oct 2022 - Present] Developing HTML5 game with friends
+### [Oct 2022 - Present] Developing HTML5 game with friends
 
 Ghost of Kyiv - Javascript arcade game with player flying plane, fire rockets into enemies.
 Game includes Intro, HP, Enemy HP, sound effects, fire rockets, keyboard controls, mobile controls.
 
->- Github: [https://github.com/DarthVanger/ghost-of-kyiv](https://github.com/DarthVanger/ghost-of-kyiv) 
->- Game Demo: [https://darthvanger.github.io/ghost-of-kyiv/](https://darthvanger.github.io/ghost-of-kyiv/)
+- Github: [https://github.com/DarthVanger/ghost-of-kyiv](https://github.com/DarthVanger/ghost-of-kyiv) 
+- Game Demo: [https://darthvanger.github.io/ghost-of-kyiv/](https://darthvanger.github.io/ghost-of-kyiv/)
 
 I have implemented features such as: 
 - Add level complete screen
